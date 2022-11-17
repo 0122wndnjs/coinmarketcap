@@ -9,7 +9,16 @@
     "moralis": "^2.7.3",
     "next": "^13.0.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@sanity/client": "^3.2.0",
+    "@walletconnect/web3-provider": "^1.7.4",
+    "@web3auth/web3auth": "^0.4.0",
+    "chart.js": "^3.7.1",
+    "gun": "^0.2020.1235",
+    "magic-sdk": "^8.1.0",
+    "react-chartjs-2": "^4.0.1",
+    "react-switch": "^6.0.0",
+    "web3uikit": "^0.1.123"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
